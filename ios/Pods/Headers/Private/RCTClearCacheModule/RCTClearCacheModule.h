@@ -1,0 +1,1 @@
+../../../../../node_modules/react-native-clear-cache-lcm/ios/RCTClearCacheModule/RCTClearCacheModule.h

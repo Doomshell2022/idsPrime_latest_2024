@@ -1,0 +1,906 @@
+[
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_gallery.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_gallery.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_schoolcode.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_schoolcode.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_notification_white.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_notification_white.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativepickermodalview_dist_assets_images_down.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativepickermodalview_dist_assets_images_down.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_ic_stat_name.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/src/main/res/drawable-xxhdpi/ic_stat_name.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_enquiry_info.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_enquiry_info.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_drawer_icons_ic_prospectus_manager.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_drawer_icons_ic_prospectus_manager.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_drop_down_arrow.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_drop_down_arrow.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_drawer_icons_id_card_black.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_drawer_icons_id_card_black.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_hostel_slider_image.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_hostel_slider_image.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativepickermodalview_dist_assets_images_leftarrow.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativepickermodalview_dist_assets_images_leftarrow.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativedropdownalert_assets_cancel.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativedropdownalert_assets_cancel.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_email.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_email.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_mobile_picker.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_mobile_picker.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_qualification_border.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_qualification_border.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_teacher_profile.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_teacher_profile.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativedropdownalert_assets_cancel.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativedropdownalert_assets_cancel.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_logout_white.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_logout_white.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_notice_board.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_notice_board.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_homeaddress.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_homeaddress.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_drawer_icons_ic_visitor_black.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_drawer_icons_ic_visitor_black.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_login_password.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_login_password.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativepickermodalview_dist_assets_images_close.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativepickermodalview_dist_assets_images_close.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_my_suggestion.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_my_suggestion.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_downloaded1.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_downloaded1.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_phone_black.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_phone_black.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_visiter_mobile.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_visiter_mobile.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_upload_file.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_upload_file.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_assignment_white.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_assignment_white.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_pdf_red.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_pdf_red.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_complaint.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_complaint.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_library_book.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_library_book.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativecheckbox_img_ic_check_box.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativecheckbox_img_ic_check_box.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_password_hide.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_password_hide.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_info.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_info.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_ic_stat_name.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/src/main/res/drawable-mdpi/ic_stat_name.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativedropdownalert_assets_success.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativedropdownalert_assets_success.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_prospectus_manager.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_prospectus_manager.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_onoffbutton.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_onoffbutton.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_wifi.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_wifi.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_visiter_time.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_visiter_time.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_drawer_icons_ic_view_profile_black.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_drawer_icons_ic_view_profile_black.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_bars.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_bars.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_email_black.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_email_black.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_drawer_icons_ic_home_black.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_drawer_icons_ic_home_black.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_down.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_down.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_admin_library.jpg.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_admin_library.jpg"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativedropdownalert_assets_info.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativedropdownalert_assets_info.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_fee.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_fee.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_hostel.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_hostel.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_nophoto.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_nophoto.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_rightarrow.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_rightarrow.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativepickermodalview_dist_assets_images_down.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativepickermodalview_dist_assets_images_down.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_takepicture.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_takepicture.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_phone.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_phone.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_visiter_to_meet.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_visiter_to_meet.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_email_border.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_email_border.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_app_logo_white.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_app_logo_white.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_email.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_email.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_tranport.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_tranport.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_icnonteaching.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_icnonteaching.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_feedback.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_feedback.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_attendance.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_attendance.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_user_image.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_user_image.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_edit.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_edit.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_assignicon.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_assignicon.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-hdpi_ic_stat_name.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/src/main/res/drawable-hdpi/ic_stat_name.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_gallery_white.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_gallery_white.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_drawer_icons_ic_gatepass.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_drawer_icons_ic_gatepass.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_drawer_icons_ic_assignment_black.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_drawer_icons_ic_assignment_black.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_pick_time.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_pick_time.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_drawer_icons_ic_notification.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_drawer_icons_ic_notification.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_view_profile.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_view_profile.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativedropdownalert_assets_error.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativedropdownalert_assets_error.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_mobile_border.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_mobile_border.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_drawer_icons_ic_gallery.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_drawer_icons_ic_gallery.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_category.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_category.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativecheckbox_img_ic_check_box.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_check_box.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativepickermodalview_dist_assets_images_close.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativepickermodalview_dist_assets_images_close.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_visitorcard.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_visitorcard.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_calendar.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_calendar.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_splash_screen_logo.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_splash_screen_logo.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_profile_image.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_profile_image.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_internetconnectionstate.gif.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_internetconnectionstate.gif"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_gender_border.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_gender_border.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_downloaded.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_downloaded.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativedropdownalert_assets_warn.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativedropdownalert_assets_warn.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_lead_management.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_lead_management.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativedropdownalert_assets_warn.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativedropdownalert_assets_warn.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_library.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_library.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_results.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_results.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_drawer_icons_ic_school_black.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_drawer_icons_ic_school_black.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativedropdownalert_assets_info.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativedropdownalert_assets_info.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_calendar.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_calendar.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_drawer_icons_ic_logout_black.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_drawer_icons_ic_logout_black.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_delete.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_delete.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_drawer_icons_ic_library_black.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_drawer_icons_ic_library_black.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_picker_by.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_picker_by.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_mother.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_mother.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backiconmask.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_mobile.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_mobile.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_visiter_purpose.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_visiter_purpose.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativecheckbox_img_ic_indeterminate_check_box.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_indeterminate_check_box.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_teacher.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_teacher.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_girl.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_girl.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_drawer_icons_ic_tranport.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_drawer_icons_ic_tranport.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_mother_black.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_mother_black.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativepickermodalview_dist_assets_images_leftarrow.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativepickermodalview_dist_assets_images_leftarrow.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_login_background_bg.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_login_background_bg.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_map_marker_black.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_map_marker_black.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_schoolprofile.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_schoolprofile.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativepickermodalview_dist_assets_images_up.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativepickermodalview_dist_assets_images_up.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_drawer_icons_ic_check_fee_black.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_drawer_icons_ic_check_fee_black.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativepickermodalview_dist_assets_images_close.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativepickermodalview_dist_assets_images_close.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_drawer_icons_ic_calendar_black.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_drawer_icons_ic_calendar_black.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_drawer_icons_ic_homework_black.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_drawer_icons_ic_homework_black.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativedropdownalert_assets_warn.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativedropdownalert_assets_warn.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_cancel.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_cancel.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_drawer_icons_student_photo.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_drawer_icons_student_photo.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_send_msg.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_send_msg.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativedropdownalert_assets_success.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativedropdownalert_assets_success.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_search_black.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_search_black.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativedropdownalert_assets_cancel.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativedropdownalert_assets_cancel.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativedropdownalert_assets_error.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativedropdownalert_assets_error.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_drawer_icons_ic_fee_black.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_drawer_icons_ic_fee_black.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_main_menu.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_main_menu.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_student.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_student.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_share2.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_share2.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativecheckbox_img_ic_check_box.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativecheckbox_img_ic_check_box.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_visiter_name.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_visiter_name.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_father.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_father.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_bin.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_bin.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_user.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_user.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_search_white.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_search_white.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_photo_camera.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_photo_camera.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_fee_black.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_fee_black.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_drawer_icons_ic_date_sheet.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_drawer_icons_ic_date_sheet.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_map.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_map.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_drawer_icons_ic_results.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_drawer_icons_ic_results.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_teacherdetail.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_teacherdetail.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_noimage.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_noimage.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_gallery.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_gallery.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_arrow.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_arrow.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_drawer_icons_ic_my_suggestion.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_drawer_icons_ic_my_suggestion.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_cross_white.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_cross_white.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_wedding_rings.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_wedding_rings.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_timetable.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_timetable.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_profile_box_background.jpg.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_profile_box_background.jpg"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_studentsummary.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_studentsummary.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_drawer_icons_ic_lead_black.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_drawer_icons_ic_lead_black.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativepickermodalview_dist_assets_images_up.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativepickermodalview_dist_assets_images_up.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_father_black.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_father_black.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_camera_snap.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_camera_snap.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_stat_name.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/src/main/res/drawable-xxxhdpi/ic_stat_name.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_homework.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_homework.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_drawer_icons_ic_timetable_black.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_drawer_icons_ic_timetable_black.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativedropdownalert_assets_error.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativedropdownalert_assets_error.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativedropdownalert_assets_info.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativedropdownalert_assets_info.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_map_marker_green.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_map_marker_green.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativecalendarstrip_src_img_leftarrowblack.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativecalendarstrip_src_img_leftarrowblack.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_79167notificationbell.gif.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_79167notificationbell.gif"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_transport_slider_image.jpg.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_transport_slider_image.jpg"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_password_show.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_password_show.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_visiter_number.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_visiter_number.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_drawer_icons_studentsummary.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_drawer_icons_studentsummary.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_change_password.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_change_password.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_drawer_icons_ic_notice_board_black.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_drawer_icons_ic_notice_board_black.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_boy.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_boy.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativepickermodalview_dist_assets_images_down.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativepickermodalview_dist_assets_images_down.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativecalendarstrip_src_img_rightarrowblack.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativecalendarstrip_src_img_rightarrowblack.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_header_option_icon.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_header_option_icon.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_date_sheet.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_date_sheet.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativepickermodalview_dist_assets_images_leftarrow.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativepickermodalview_dist_assets_images_leftarrow.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_drawer_icons_teacher_attendance.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_drawer_icons_teacher_attendance.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_drawer_icons_ic_change_password.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_drawer_icons_ic_change_password.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_pencil.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_pencil.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_drawer_icons_ic_hostel.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_drawer_icons_ic_hostel.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_suggestion.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_suggestion.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_drawer_icons_ic_complaint_black.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_drawer_icons_ic_complaint_black.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_telephonecall.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_telephonecall.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_staffattendance.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_staffattendance.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_images_admin_slider1.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_images_admin_slider1.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_assignment_delete_green.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_assignment_delete_green.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_gatepass.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_gatepass.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativepickermodalview_dist_assets_images_up.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativepickermodalview_dist_assets_images_up.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_back.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_back.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xhdpi_ic_stat_name.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/src/main/res/drawable-xhdpi/ic_stat_name.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_leftarrow.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_leftarrow.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_schoollogo_kidsclub.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_schoollogo_kidsclub.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_course_tracker.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_course_tracker.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativedropdownalert_assets_success.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativedropdownalert_assets_success.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_ic_parents.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_ic_parents.png"
+    },
+    {
+        "merged": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_assets_icons_drawer_icons_student_attendance.png.flat",
+        "source": "/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_icons_drawer_icons_student_attendance.png"
+    }
+]

@@ -1,0 +1,25 @@
+{
+  "name": "RCTClearCacheModule",
+  "version": "1.0.1",
+  "summary": "RCTClearCacheModule",
+  "description": "RCTClearCacheModule",
+  "homepage": "n/a",
+  "license": "MIT",
+  "authors": {
+    "author": "li.zhming215@gmail.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://github.com/lizhming/react-native-clear-cache-lcm.git",
+    "tag": "master"
+  },
+  "source_files": "RCTClearCacheModule/*.{h,m}",
+  "requires_arc": true,
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

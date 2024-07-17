@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "596465549067",
+    "project_id": "idsprime-400b9",
+    "storage_bucket": "idsprime-400b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596465549067:android:718c298ccc719050216c0e",
+        "android_client_info": {
+          "package_name": "com.doomshell.idsprimelatest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596465549067-66i71ikldbkng43u2iii83f3qknj5sju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMvePS4fAaXeVEC6Hg-KeQbe1kJk8SNE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596465549067-66i71ikldbkng43u2iii83f3qknj5sju.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "596465549067-6anpes966nqtggojnganr7q2pd1bt3q6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.doomshell.idsprimelatest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

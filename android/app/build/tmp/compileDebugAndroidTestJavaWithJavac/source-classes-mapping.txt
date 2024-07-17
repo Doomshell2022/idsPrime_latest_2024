@@ -1,0 +1,2 @@
+com/doomshell/idsprimelatest/test/BuildConfig.java
+ com.doomshell.idsprimelatest.test.BuildConfig

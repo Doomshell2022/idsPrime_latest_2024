@@ -1,0 +1,6 @@
+module Pods_IDSPrime {
+  umbrella header "Pods-IDSPrime-umbrella.h"
+
+  export *
+  module * { export * }
+}

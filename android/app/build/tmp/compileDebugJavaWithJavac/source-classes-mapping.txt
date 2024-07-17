@@ -1,0 +1,17 @@
+com/doomshell/idsprimelatest/MainApplication.java
+ com.doomshell.idsprimelatest.MainApplication
+ com.doomshell.idsprimelatest.MainApplication$1
+com/doomshell/idsprimelatest/CustomBitmapMemoryCacheParamsSupplier.java
+ com.doomshell.idsprimelatest.CustomBitmapMemoryCacheParamsSupplier
+com/doomshell/idsprimelatest/ReactNativeFlipper.java
+ com.doomshell.idsprimelatest.ReactNativeFlipper
+ com.doomshell.idsprimelatest.ReactNativeFlipper$1
+ com.doomshell.idsprimelatest.ReactNativeFlipper$2
+ com.doomshell.idsprimelatest.ReactNativeFlipper$2$1
+com/doomshell/idsprimelatest/MainActivity.java
+ com.doomshell.idsprimelatest.MainActivity
+ com.doomshell.idsprimelatest.MainActivity$1
+com/doomshell/idsprimelatest/BuildConfig.java
+ com.doomshell.idsprimelatest.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

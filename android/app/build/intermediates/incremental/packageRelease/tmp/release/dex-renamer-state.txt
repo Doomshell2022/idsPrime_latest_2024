@@ -1,0 +1,7 @@
+#Thu Jul 11 13:32:33 IST 2024
+base.1=/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
+path.1=classes2.dex
+base.0=/Users/dheerndra/Documents/idsPrime_RN_66-main/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
